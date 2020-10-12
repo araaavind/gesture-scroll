@@ -1,4 +1,4 @@
-# G-scroll
+# gesture-scroll
 > Chrome extension to enable scrolling webpages and taking screenshots with simple hand gestures.
 
 ## How to use:
